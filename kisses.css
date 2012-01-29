@@ -31,11 +31,24 @@ a { color: #859900 }
 	list-style-type: none;
 }
 
+#topnav ul li:first-child {
+	margin: 0; padding: 0;
+	padding-right: 1.5%;
+	border: none;
+}
+
+#topnav ul li svg {
+	vertical-align: middle;
+	margin-top: -1ex;
+}
+
+#topnav ul li:hover svg { fill: #fdf6e3 }
+
 #topnav ul li {
 	float: left;
 	margin-right: 1.5%;
-	padding-right: 1.5%;
-	border-right: dotted grey 1px;
+	padding-left: 1.5%;
+	border-left: dotted #000 1px;
 }
 
 #topnav ul li:last-child {
@@ -48,10 +61,16 @@ a { color: #859900 }
 	margin-top: 3.5em;
 }
 
-article .article-meta { visibility: hidden }
+article .article-meta {
+	visibility: hidden;
+	opacity: 0.0;
+}
 
 article:hover .article-meta {
 	visibility: visible;
+	opacity: 1.0;
+	-webkit-transition: opacity 1s;
+	transition: opacity 1s;
 	font-size: smaller;
 	color: grey;
 }
