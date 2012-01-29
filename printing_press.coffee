@@ -8,7 +8,11 @@ http   = require('http')
 # in the current directory (`npm install node-static` might be helpful,
 # though).
 
-server = new static.Server()
+# Optionally accept a directory to serve...
+if(process.argv.length > 2)
+	server = new static.Server(process.argv[2])
+else
+	server = new static.Server()
 
 http.createServer((request, response) ->
 	request.addListener 'end', ->
