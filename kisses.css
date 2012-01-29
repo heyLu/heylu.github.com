@@ -1,0 +1,66 @@
+/*
+ * Whoopey! Colours, ponies and some secrets.
+ *
+ * A simple supposed-to-be-readable in the sunlight, solarized-inspired
+ * and funny stylesheet.
+ */
+
+* {
+	font-family: "Gentium Basic", Arial, serif;
+	font-size: 105%;
+}
+
+a { color: #859900 }
+
+/* navigation */
+#topnav {
+	position: absolute;
+	top: 0;
+	left: 0;
+	width: 100%;
+	height: 2em;
+	background-color: #859900;
+}
+
+#topnav * a { color: #fdf6e3 }
+
+#topnav ul {
+	padding: 0;
+	margin: 0 20%;
+	margin-top: 0.5em;
+	list-style-type: none;
+}
+
+#topnav ul li {
+	float: left;
+	margin-right: 1.5%;
+	padding-right: 1.5%;
+	border-right: dotted grey 1px;
+}
+
+#topnav ul li:last-child {
+	border-right: none;
+}
+
+/* articles */
+#rambling {
+	margin: 0 20%;
+	margin-top: 3.5em;
+}
+
+article .article-meta { visibility: hidden }
+
+article:hover .article-meta {
+	visibility: visible;
+	font-size: smaller;
+	color: grey;
+}
+
+/* footer */
+#feet {
+	position: absolute;
+	bottom: 0;
+	margin: 0 30%;
+	font-size: x-small;
+	color: grey;
+}
