@@ -69,6 +69,7 @@ article .article-meta {
 article:hover .article-meta {
 	visibility: visible;
 	opacity: 1.0;
+	-moz-transition: opacity 1s;
 	-webkit-transition: opacity 1s;
 	transition: opacity 1s;
 	font-size: smaller;
