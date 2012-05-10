@@ -9,6 +9,13 @@
 <body>
 {% include navigation.html %}
 
-{{ content }}
+<article id="rambling">
+	<h1>{{ page.title }}</h1>
+	{{ content }}
+	<footer class="article-meta">
+		<p><a href="/p/me">lu</a> has written this sometime around
+		<time date="now">{{ page.date | date: "%h %Y" }}</time>.</p>
+	</footer>
+</article>
 
 {% include footer.html %}
