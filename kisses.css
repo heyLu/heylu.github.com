@@ -78,7 +78,7 @@ article:hover .article-meta {
 
 /* footer */
 #feet {
-	position: absolute;
+	position: static;
 	bottom: 0;
 	margin: 0 30%;
 	font-size: x-small;
