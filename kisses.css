@@ -10,7 +10,11 @@
 	font-size: 105%;
 }
 
+h1 { font-size: 1.5em }
+
 a { color: #859900 }
+
+pre, code { font-family: monospace }
 
 /* navigation */
 #topnav {
