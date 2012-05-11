@@ -35,8 +35,13 @@ blogpost about Jekyll][twp-jekyll] or [the wiki][wiki].
 ## Markup
 
 Each file that begins with a [YAML front matter][] is considered a
-liquid template by jekyll. Here's an example from my `_layouts/post.html`:
+[liquid template][lq-intro] by jekyll. That is, you write your content
+as usual but use specific markup to insert other generated content into
+it.
 
+Here's an example from my [`_layouts/post.html`](https://github.com/heyLu/heylu.github.com/blob/master/_layouts/post.html):
+
+    {% raw %}
     <article id="rambling">
         <h1>{{ page.title }}</h1>
         {{ content }}
@@ -45,6 +50,7 @@ liquid template by jekyll. Here's an example from my `_layouts/post.html`:
             <time date="now">{{ page.date | date: "%h %Y" }}</time>.</p>
         </footer>
     </article>
+    {% endraw %}
 
 There are better places to read more about liquid [in
 general][lq-intro], some [filters][lq-filters] such as `| date: "%h %Y"`
