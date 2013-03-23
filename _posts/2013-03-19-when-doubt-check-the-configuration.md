@@ -3,6 +3,20 @@ layout: post
 title: When in doubt, check the configuration
 ---
 
+# The problem
+
+The values you submit to [graphite][] seem to be not received or to
+change randomly.
+
+# The solution
+
+Either your retention settings (in `conf/storage-schemas.conf`) are
+"wrong", i.e. your data is too "old" and being aggregated or dropped, or
+you haven't migrated the existing whisper database to the new settings
+(use `./bin/whisper-resize.py`).
+
+# The story
+
 At Spreadshirt, where I currently work as an intern, we use [graphite][]
 for plotting performance data. I decided to use it because I had done a
 few simple things with it (plotting via statsd) and because it's input
