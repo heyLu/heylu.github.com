@@ -57,6 +57,8 @@ thinking/living.
 
 * linux from scratch (general linux knowledge, compiling/packages, bit
   of C)
+* Otherland (computer interacts with senses; data is everything, "flows"
+  through the computer system; treehouse, the garden)
 * why's (poignant) guide to ruby (best book about programming/pls)
 * <http://learnyouahaskell.com> (second best book about pls, intro to
   functional)
