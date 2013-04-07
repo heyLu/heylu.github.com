@@ -26,8 +26,10 @@ With that in place, here goes.
 * <http://cloudhead.io> (ruby (I think))
 * <http://timelessrepo.com> (ruby community, interesting form)
 * <http://paulgraham.com> (intro to lisp)
+* <http://randsinrepose.com> ("managing" people, perspective)
 * simon peyton jones (compiler books, involvment w/ haskell, he's at
   microsoft research)
+* <http://youarenotsosmart.com> ("thinking about thinking", "weak" perception)
 * <http://blog.fogus.me> (clojure + stuff before it, reading, breadth of
   knowledge)
 
