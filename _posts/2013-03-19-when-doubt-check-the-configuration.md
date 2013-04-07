@@ -51,3 +51,5 @@ Next time:
 * check the code *once*, but really thorough
 * additionally: write tests, make sure that they work
 * debug logically (i.e. through reasoning/narrowing down possible cases)
+
+[graphite]: https://graphite.readthedocs.org/en/latest/overview.html
