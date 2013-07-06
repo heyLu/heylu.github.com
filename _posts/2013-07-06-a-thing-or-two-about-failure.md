@@ -4,8 +4,8 @@ layout: post
 ---
 
 Oh, hi, hello there. You might have read about a [different][sp1]
-[me][sp2] a while ago. It hasn't been going so well in a way, here's
-a bit about how it went and why I think it's been that way.
+[me][sp2] a while ago. That hasn't been going so well, so here's a bit
+about how it went "not well" and why I think it's been that way.
 
 This isn't a post I wanted to write. In fact, I've been putting it off
 for 2 months now and how these things go it's just been weighing me
@@ -44,7 +44,7 @@ change. There are (some) people I trust, I can't be the only one
 suffering this kind of problem. So, let's write some emails, right?
 
 So, the summary after the thinking (sometimes it's better to start this
-way, because writing it out force me to explain things better and not to
+way, because writing it out forces me to explain things better and not to
 succumb to evils such as elipsis and etc):
 
 * too much (letter to a friend [l], document [f], reading [1/2 read, review f], shopping list [1/2], separation [f], tdd [f mostly], think [f], consciousness [f], meetup [s])
@@ -54,7 +54,7 @@ succumb to evils such as elipsis and etc):
       there was a hurdle and I wasn't taking it, I just skipped it
 * lacking self-knowledge
 * reflection & consciousness
-* didn't published -> perished
+* didn't publish -> perished
 
 # What am I going to do?
 
@@ -79,8 +79,18 @@ happy when creating. I doesn't really matter what it is, but creating is
 important. After I got to write that letter (inspired by a letter by
 another person), I enjoyed it immensely. Maybe I just like talking about
 myself, but I like to imagine that I enjoyed writing the letter and
-caring about that person (like, for real, not in 10-second daydreams. if
+caring about that person (like, for real, not in 10-second daydreams. If
 that worked, I'd have answered the letter pretty quickly).
+
+But the wonderful thing about "creating", is that there is an infinite
+amount of things and non-things to create. So I can be happy writing
+code (which is many things by itself), trying to draw something, making
+music in some way, writing notes/posts/diary entries, but also while
+doing many other things such as solving mathy problems, thinking about
+new projects/ideas or teaching. And even that isn't everything, because
+cooking, writing letters and visiting awesome people is some kind
+of creation. So many things to make me happy, I "just" have to not give
+in when it doesn't go so well.
 
 I also really enjoy having ideas, thinking really weird thoughts. And
 being in the shower is most inspiring. I think that's actually bad,
@@ -99,14 +109,14 @@ happier and because I need it. (I promise I go to bed after having
 written this thing. And I also promise to publish it today, 2013-07-06,
 so no excuses, right?))
 
-Being focused/aware/spirited (sorry, but it sounds a bit spiritual),
-somehow also means less things to worry about for me. That's not all
-that suprising, but spelled out and realized it really makes a
-difference. This means writing letters, emails, posts like this; or
-applying at university, talking to those wonderful people again;
-polishing up that little project, closing all the tabs that might have
-distractions in them (7 currently, 3 of them being talks). These might
-not seem significant, but they help me by not having to worry about them
+Being more self-aware includes doing things on the spot, resulting in
+less things to worry about for me. That's not all that suprising, but
+spelled out and realized it really makes a difference. This means
+writing letters, emails, posts like this; or applying at university,
+talking to those wonderful people again; polishing up that little
+project, closing all the tabs that might have distractions in them (7
+currently, 3 of them being talks). These might not seem significant, but
+doing stuff on the spot helps me by not having to worry about them
 (which makes me happier and my mind less occupied/more dreamy) and by
 giving me less opportunities to procrastinate.
 
@@ -115,19 +125,19 @@ giving me less opportunities to procrastinate.
 Mh, in april, I think not very much, GitHub activity is mostly this log
 thing (but that's not much at all).
 
-May? GitHub doesn't know anything about May. I'll try and check my
-chrome log, but the sad truth might be that I didn't do much at all in
-May. The throwback of April, more lazyness, feeling bad about April and
-making me feel even worse by not doing anything in May. As a tangent,
-May was also not so good at Spreadshirt. I did have a few successes, but
-only after much head-against-wall and with the knowledge that with a bit
-of thinking it would have been much better.
+May? GitHub doesn't know anything about May. Chromium doesn't either, so
+I guess the sad truth is that I didn't do much at all in May. The
+throwback of April, more lazyness, feeling bad about April and making me
+feel even worse by not doing anything in May. May was also not so good
+at Spreadshirt. I did have a few successes, but only after much
+head-against-wall and with the knowledge that with a bit of thinking it
+would have been much better.
 
 June was better. I've updated my dotfiles (including a transition to
 XMonad, which makes me happier than awesome), wrote a tweetable speed
 reader bookmarklet and last weekend worked on expandr (a link
 unshortener in Haskell). I also went to HaL8, a mini conference, about
-Haskell, which was inspiring and humbling and last week made that
+Haskell, which was inspiring and humbling and this week made that
 computers only between 08:00 and 20:00 diet, which had been going well
 until now, and yesterday I installed a "standing cupboard", which I've
 been using today and am using now. It's fun, I'll probably try and draw
@@ -141,14 +151,14 @@ fail setting up a prgmr account for my own space on the web. GitHub is
 nice and all, but it still is a little bit limiting for interactive
 freedom and stuff. So, prgmr didn't quite work out so far, I had lot's
 of problems with getting DHCP set up so that I could install arch (or
-anything, for that matter), but failed (not my fault) and didn't do
-much about it for too long (my fault). But in the end I got it solved
-(that might be another less-ego-less-weepy post) and installed arch just
-to learn that the kernel that the internet said it would work didn't
+anything, for that matter), but failed (not my fault) and didn't do much
+about it for too long (my fault). But in the end I got it solved (that
+might be another less-ego-less-weepy post) and installed arch just to
+learn that the kernel that the internet said would work didn't
 work after all. So then I gave up with that and by chance came accross
 DigitalOcean who have an awesome setup workflow and better hardware
 (where's the bad part, though?), so to finish this paragraph-rant I got
-setup with them got arch on it and gained my very first public
+set up with them got arch on it and gained my very first public
 web-server thing (YAY!), hosted my own XMPP server on it and tested that
 expandr thing on it. Next steps are porting my site over (already there,
 but there's more to come) and then let's see. Phew, sorry, kind of.)
@@ -163,7 +173,7 @@ that's one argument for getting a little bit of help.
 *If you're reading this because I sent you an email, please send me your
 thoughts about it. About how I am egoistic and stupid, but also about
 how I can do better and how you still like me a bit. And if you read
-this all by yourself (who ARE you?), drop me an email anyway, if you
+this all on your own (who ARE you?), drop me an email anyway, if you
 feel like it.*
 
 Best I can say is that I am going again. I don't know where and I don't
@@ -172,11 +182,11 @@ sooner and it won't be much apologizing just a thing about learning and
 stuff like that.
 
 So, bye for now, I think. (These things aren't really "in" these days,
-are day? I still like to say something to you every once in a while.
+are they? I still like to say something to you every once in a while.
 Makes me feel more like I'm talking to other human beings.)
 
-<3
+&lt;3
 
 [sp1]: /2013-04-06-self.promises
 [sp2]: /2013-04-20-self.promises-week-II
-[survivorship bias]: youarenotsosmart
+[survivorship bias]: http://youarenotsosmart.com/2013/05/23/survivorship-bias/
