@@ -4,7 +4,7 @@ layout: post
 ---
 
 *I originally wrote this post last November (2012), but apparently
-I havent't posted it so far. As I am now posting a whole lot of things,
+I haven't posted it so far. As I am now posting a whole lot of things,
 I post this too.*
 
 *It's actually quite surprising that some of the thoughts in this are
