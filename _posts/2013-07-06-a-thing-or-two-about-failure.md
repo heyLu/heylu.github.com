@@ -13,15 +13,15 @@ down. So this post is in-part an exploration of what went wrong and in
 another part another try to get better.
 
 Before I really start, a thing about failure. Over the last few months I
-read a lot of stuff, including stuff about failure. And I've come to the
-conclusion that failure is the requirement for learning. I don't think
-they can exist separately. Because how can you learn something without
-failure? If you're doing anything interesting, then you're at least in
-part trying something new. And that includes failure. I don't think of
-it as solely negative, it's part of the deal. Of course it's depressing
-to fail again and again, but the important part is to learn something
-about your mistakes and to not make them *again*. Learning is failure
-and then not failing that same way again.
+read a lot of stuff, including stuff about failure ([1], [2]). And I've
+come to the conclusion that failure is the requirement for learning. I
+don't think they can exist separately. Because how can you learn
+something without failure? If you're doing anything interesting, then
+you're at least in part trying something new. And that includes failure.
+I don't think of it as solely negative, it's part of the deal. Of course
+it's depressing to fail again and again, but the important part is to
+learn something about your mistakes and to not make them *again*.
+Learning is failure and then not failing that same way again.
 
 # What went wrong?
 
@@ -133,10 +133,10 @@ at Spreadshirt. I did have a few successes, but only after much
 head-against-wall and with the knowledge that with a bit of thinking it
 would have been much better.
 
-June was better. I've updated my dotfiles (including a transition to
-XMonad, which makes me happier than awesome), wrote a tweetable speed
-reader bookmarklet and last weekend worked on expandr (a link
-unshortener in Haskell). I also went to HaL8, a mini conference, about
+June was better. I've updated [my dotfiles][] (including a transition to
+[XMonad][], which makes me happier than awesome), wrote a tweetable speed
+reader bookmarklet and last weekend worked on [expandr][] (a link
+unshortener in Haskell). I also went to [HaL8][], a mini conference, about
 Haskell, which was inspiring and humbling and this week made that
 computers only between 08:00 and 20:00 diet, which had been going well
 until now, and yesterday I installed a "standing cupboard", which I've
@@ -147,7 +147,7 @@ that and because I noticed it quicker (and I could just walk away to
 drink a cup of tea or think a bit).
 
 So, I think for now it's a bit better. (One thing I also did was try and
-fail setting up a prgmr account for my own space on the web. GitHub is
+fail setting up a [prgmr][] account for my own space on the web. GitHub is
 nice and all, but it still is a little bit limiting for interactive
 freedom and stuff. So, prgmr didn't quite work out so far, I had lot's
 of problems with getting DHCP set up so that I could install arch (or
@@ -156,12 +156,13 @@ about it for too long (my fault). But in the end I got it solved (that
 might be another less-ego-less-weepy post) and installed arch just to
 learn that the kernel that the internet said would work didn't
 work after all. So then I gave up with that and by chance came accross
-DigitalOcean who have an awesome setup workflow and better hardware
+[DigitalOcean][] who have an awesome setup workflow and better hardware
 (where's the bad part, though?), so to finish this paragraph-rant I got
 set up with them got arch on it and gained my very first public
 web-server thing (YAY!), hosted my own XMPP server on it and tested that
-expandr thing on it. Next steps are porting my site over (already there,
-but there's more to come) and then let's see. Phew, sorry, kind of.)
+expandr thing on it. Next steps are porting my site over ([already
+there](http://logs.papill0n.org), but there's more to come) and then
+let's see. Phew, sorry, kind of.)
 
 # Mhh. That sounds... better, i guess, but what are you going to do now?
 
@@ -189,4 +190,11 @@ Makes me feel more like I'm talking to other human beings.)
 
 [sp1]: /2013-04-06-self.promises
 [sp2]: /2013-04-20-self.promises-week-II
-[survivorship bias]: http://youarenotsosmart.com/2013/05/23/survivorship-bias/
+[1]: http://youarenotsosmart.com/2013/05/23/survivorship-bias/
+[2]: http://www.aaronsw.com/weblog/productivity
+[XMonad]: http://xmonad.org
+[HaL8]: http://www.bioinf.uni-leipzig.de/conference-registration/13haskell/de/Programm.html
+[my dotfiles]: https://github.com/heyLu/confidence
+[expandr]: https://github.com/heyLu/expandr
+[prgmr]: http://prgmr.com/xen
+[DigitalOcean]: http://digitalocean.com
