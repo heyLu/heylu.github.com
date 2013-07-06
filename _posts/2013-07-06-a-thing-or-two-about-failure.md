@@ -136,7 +136,7 @@ would have been much better.
 June was better. I've updated [my dotfiles][] (including a transition to
 [XMonad][], which makes me happier than awesome), wrote a tweetable speed
 reader bookmarklet and last weekend worked on [expandr][] (a link
-unshortener in Haskell). I also went to [HaL8][], a mini conference, about
+unshortener in Haskell). I also went to [HaL8][], a mini conference about
 Haskell, which was inspiring and humbling and this week made that
 computers only between 08:00 and 20:00 diet, which had been going well
 until now, and yesterday I installed a "standing cupboard", which I've
