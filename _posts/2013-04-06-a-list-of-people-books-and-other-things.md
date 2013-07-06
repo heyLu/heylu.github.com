@@ -85,7 +85,7 @@ thinking/living.
 
 ## Other
 
-* <http://pinboard.io> (business model (+ trust, speed, non-bloat/focus))
+* <http://pinboard.in> (business model (+ trust, speed, non-bloat/focus))
 
 ## Recent things
 
