@@ -14,3 +14,6 @@ In short:
 * read the error log
 * read other people's configs (I'll open up mine in a bit, in the
   meantime, there are some [on the wiki][samples].)
+
+[wiki]: http://wiki.nginx.org/Configuration
+[samples]: http://wiki.nginx.org/Configuration#Full_examples
