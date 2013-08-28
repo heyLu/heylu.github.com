@@ -114,3 +114,9 @@ Also, a unix group for myself helps me access shared files such as my
 music library.
 
 # Mutt + offlineimap
+
+[1]: https://github.com/heyLu/confidence/blob/master/.crontab#L2
+[projects]: https://github.com/heyLu?tab=repositories
+[dotfiles]: https://github.com/heyLu/confidence
+[notes]: https://github.com/heyLu/chrome-newtab-notes
+[2]: https://github.com/heyLu/confidence/blob/master/.vimrc#L10-L33
