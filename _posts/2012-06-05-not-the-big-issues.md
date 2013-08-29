@@ -22,7 +22,7 @@ are the ones I can think of right now:
      yet?)
 
 Some inspirations (in no particular order): Tad William's Otherland,
-Lighttable, Smalltalk/Lisp development environments, ZigZag and probably
+LightTable, Smalltalk/Lisp development environments, ZigZag and probably
 lots of other things.
 
 If you're also thinking about some of these things or know
