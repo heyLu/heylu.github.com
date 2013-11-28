@@ -1,6 +1,7 @@
 ---
 title: Learning
 published: false
+started: 2013-09-09
 ---
 
 I'm learning.

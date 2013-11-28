@@ -2,6 +2,7 @@
 title: Why I'm in Computing
 layout: post
 published: false
+started: 2013-08-01
 ---
 
 why i'm in computing
