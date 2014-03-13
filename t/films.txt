@@ -1,6 +1,5 @@
 bridge to terabithia
 l'elegance d'herisson
-
 mein nachbar totoru
 die wunderbare welt der amelie
 chihiros reise ins zauberland
@@ -8,9 +7,11 @@ charlie und die schokoladenfabrik
 500 days of summer
 scott pilgrim vs the world
 mr and mrs smith
-..., the dark knight, the dark knight rises
+batman begins
+the dark knight
+the dark knight rises
 the good, the bad, the weird
-Sherlock Holmes (2010, 2012)
+sherlock holmes (2010, 2012)
 across the universe
 stolz und vorurteil
 der klang des herzens
