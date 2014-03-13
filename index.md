@@ -28,8 +28,8 @@ i'm also interested in working with inspiring people, so you can also
 ## love.
 
 i like the small things, the unexpected smiles from strangers, cooking,
-having the time and space to think and [the][music] [usual][movies]
-[suspects][linkage].
+having the time and space to think and [the](t/music.txt) [usual](t/films.txt)
+[suspects](t/linkage).
 
 ## more.
 
