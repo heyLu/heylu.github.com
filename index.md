@@ -15,12 +15,14 @@ turn they also get to tell me many things. i'm always learning and i
 hope that doesn't end.
 
 specifically, i'm interested in making computers better for people. that
-journey makes me do anything from [teaching][], doing all kinds of
-[projects][] to investigating the ideas of functional programming as one
-way to bring computing closer to people.
+journey makes me do anything from [teaching](http://codegirls.de), doing
+all kinds of [projects](https://github.com/heyLu?tab=repositories) to
+investigating the ideas of functional programming as one way to bring
+computing closer to people.
 
 i'd like to write software for you (yes you). if you have smallish thing
-that's been nagging for month, [this][] might be something of interest.
+that's been nagging for month, [this](tiny-cubes) might be something of
+interest.
 
 i'm also interested in working with inspiring people, so you can also
 [talk to me](mailto:lu@papill0n.org?subject=collaboration) about that.
@@ -35,9 +37,9 @@ having the time and space to think and [the](t/music.txt) [usual](t/films.txt)
 
 there's always more.
 
-the internet has a lot of interesting [people][], i [fail][] (and/or
-struggle) a lot, i like asides, [schaukeln][], words and all kinds of
-things that change me.
+the internet has a lot of interesting [people](people), i [fail](struggle)
+(and/or struggle) a lot, i like asides, *schaukeln*, words and all
+kinds of things that change me.
 
 also, drawing, too many ideas and you are wonderful.
 
