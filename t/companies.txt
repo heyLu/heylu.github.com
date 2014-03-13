@@ -1,0 +1,13 @@
+# seemingly "good" companies (for developers)
+
+37signals
+cognitect
+fogcreek
+github
+stackexchange
+thoughtworks
+
+# ow. those are the ones that i remember from the top of my mind, but
+# there must be more of them.
+# well, i think quite a few very small ones are actually "good", too,
+# but how do you know?
