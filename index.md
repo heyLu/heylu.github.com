@@ -1,4 +1,9 @@
-# Hello.
+---
+title: hello.
+layout: page
+---
+
+# hello.
 
 i am lu and i love many things. you've found my little place on the web,
 so below is a short introduction to the things you might find here.
@@ -12,7 +17,7 @@ hope that doesn't end.
 specifically, i'm interested in making computers better for people. that
 journey makes me do anything from [teaching][], doing all kinds of
 [projects][] to investigating the ideas of functional programming as one
-way to bring it closer to people.
+way to bring computing closer to people.
 
 i'd like to write software for you (yes you). if you have smallish thing
 that's been nagging for month, [this][] might be something of interest.
