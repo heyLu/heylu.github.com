@@ -9,3 +9,7 @@ surviving the days until the next $FAVOURITE_COMIC update
 what's category theory?
 
 motivation in the face of obvious deficiencies. (e.g. learning to draw.)
+
+tracking bias. via technology? crowdsourcing it (w/o corruption)?
+
+what are the really innovative ideas for interacting with information?
