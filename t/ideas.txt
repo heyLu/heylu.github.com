@@ -1,0 +1,12 @@
+a database for biases of people and organizations
+
+an api for real-time messaging
+
+("agents" that act on your behalf?)
+
+the archive. a service that archives webpages.
+	(minimal: images of pages, probably phantomjs+pandoc; what about
+	other kinds of documents? maybe this should actually two services:
+	one that stores content given a url, a timestamp and some data and
+	another one that takes the images, extracts the text and submits it
+	to the store.)
