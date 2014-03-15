@@ -13,3 +13,5 @@ motivation in the face of obvious deficiencies. (e.g. learning to draw.)
 tracking bias. via technology? crowdsourcing it (w/o corruption)?
 
 what are the really innovative ideas for interacting with information?
+
+extensibility. what approaches are there, how do we allow non-intended extensions, what's been done?
