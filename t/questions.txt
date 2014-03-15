@@ -15,3 +15,5 @@ tracking bias. via technology? crowdsourcing it (w/o corruption)?
 what are the really innovative ideas for interacting with information?
 
 extensibility. what approaches are there, how do we allow non-intended extensions, what's been done?
+
+extensible web apps. if they're just javascript, why can't we extend them? or should they be apis with an optional frontend?
