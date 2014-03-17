@@ -10,3 +10,9 @@ the archive. a service that archives webpages.
 	one that stores content given a url, a timestamp and some data and
 	another one that takes the images, extracts the text and submits it
 	to the store.)
+
+almost flying. a 3d free-runner without any obligations. you just explore. or wait for the sun to set. but you can run as much as you want. because it's fun.
+
+flying around in space. this time with cities.
+
+encoding the knowledge about the world as facts and querying it using datalog. would that be "enough" for complex behaviour? what would be missing?
