@@ -16,3 +16,5 @@ almost flying. a 3d free-runner without any obligations. you just explore. or wa
 flying around in space. this time with cities.
 
 encoding the knowledge about the world as facts and querying it using datalog. would that be "enough" for complex behaviour? what would be missing?
+
+tutorials focusing on concepts behind technology. (e.g "docker provides kind-of immutable os-level containers" and how it differs from other things, how that changes the way you use it)
