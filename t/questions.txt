@@ -17,3 +17,5 @@ what are the really innovative ideas for interacting with information?
 extensibility. what approaches are there, how do we allow non-intended extensions, what's been done?
 
 extensible web apps. if they're just javascript, why can't we extend them? or should they be apis with an optional frontend?
+
+is it possible to maintain "civil" discussions on the internet without suppressing knowledge/opinions outside of our filter bubbles? (e.g.  filter out non-value adding, derailing people. but sometimes they do have a point and most of the times the decision whether someone "adds something" is very subjective. stackexchange does it by narrowing the focus, discourse by making moderation easier?)
