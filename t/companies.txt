@@ -1,5 +1,6 @@
 # seemingly "good" companies (for developers)
 
+&yet
 37signals
 cognitect
 fogcreek
