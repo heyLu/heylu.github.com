@@ -18,3 +18,5 @@ flying around in space. this time with cities.
 encoding the knowledge about the world as facts and querying it using datalog. would that be "enough" for complex behaviour? what would be missing?
 
 tutorials focusing on concepts behind technology. (e.g "docker provides kind-of immutable os-level containers" and how it differs from other things, how that changes the way you use it)
+
+i don't like cynics. i'm naive and full of hope.
