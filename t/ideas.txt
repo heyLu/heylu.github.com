@@ -20,3 +20,5 @@ encoding the knowledge about the world as facts and querying it using datalog. w
 tutorials focusing on concepts behind technology. (e.g "docker provides kind-of immutable os-level containers" and how it differs from other things, how that changes the way you use it)
 
 i don't like cynics. i'm naive and full of hope.
+
+warmth in tech. i miss it, so much competition, being "tough" (and knowing everything). can we have more weakness. that sounds quite fluffy, but so be it. and we can still have new things, unknown things, ideas from outer space... that's what i like people like simon peyton-jones, rich hickey and in general people that write: they're gentle, somehow. they don't look down on you because you don't know something, they're trying to explain it to you.
