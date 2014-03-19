@@ -21,3 +21,5 @@ extensible web apps. if they're just javascript, why can't we extend them? or sh
 is it possible to maintain "civil" discussions on the internet without suppressing knowledge/opinions outside of our filter bubbles? (e.g.  filter out non-value adding, derailing people. but sometimes they do have a point and most of the times the decision whether someone "adds something" is very subjective. stackexchange does it by narrowing the focus, discourse by making moderation easier?)
 
 how do you talk about difficulties while you're having them? is that "immature"? talking and talking without knowing the solution?
+
+can we write systems where we understand all parts? and modify them?
