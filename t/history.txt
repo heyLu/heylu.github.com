@@ -1,0 +1,69 @@
+# ... and into the rabbit hole i went. i don't remember much of the specifics
+
+lego. lots of lego. grandiose buildings, new worlds.
+books as well. mostly fantasy, mostly bad fantasy.
+designing games. drawings on papers, imagining worlds, inventing all the rules as they fit. (that's a game mechanic in itself.)
+
+win 95
+
+win 98
+
+xp, a computer we can play games on
+
+the internet (talking to other people, i think?)
+
+trying to write c++ on win, trying to download the .net framework (v2?) via an isdn connection, failing somehow.
+
+pascal, shortly. maybe from school, maybe not.
+
+someone gave me a linux distro on a cd, live bootable! (knoppix)
+
+suse linux. trying to "write" a better desktop environment. start by compiling the x11 server...
+
+a tiny bash-script that starts up a gameboy emulator when you click on an icon.
+
+at some point: reading "otherland". will crop up as an influence only later.
+
+linux from scratch. downloading and compiling lots of stuff my hand. ./configure && make && make install. building the kernel (many times because we need to find the right options).
+
+trying to write "package manager" that can compile the system for me.
+
+somewhere in between: distributed systems of computers. dhts, distributed search engines, joining my first mailing list about social something (gnu-related?). even posted hazy ideas, forwarded private email conversations, learned the email etiquette.
+
+(probably much later: first post about diaspora on the mailing list, got quite excited, i think. http://lists.nongnu.org/archive/html/social-discuss/2010-04/msg00131.html)
+
+switched to ubuntu at some time, then back and forth between ubuntu and fedora and then finally to arch where i am now (2014, not planning to stop).
+
+dabbling with c to fix headers (for the compiling) and trying to build something "distributed". and maybe even the package thing. had no idea what i was doing. but slowly understood more of c syntax, makefiles (lfs build script was a makefile) and shell scripts.
+
+at some time got a reference-style book about c. no idea why this one.  wrote some tiny things with it. (file io? remember looking such stuff up)
+
+at times downloaded source code via svn. (maybe even preferred it to git because it was faster? for a while, i think.)
+
+got into ruby somehow. maybe _why's poignant guide, maybe something else. wrote plugins for ditz (a file-based, cmd-line bug tracker). also, sup.
+
+lots of ruby blogs. also paul graham at some point. (no idea how, again.)
+
+3d modelling for a while. (at least a year, in parallel with other things. blender's cool.)
+
+circles. let's make a presentation tool based on svg where everything's in circles. wrote a wonderful project-overview on a big piece of paper, with colours and everything. (need to look for that at some time.) half-a-year project for school as well. svg+js, both new to me, i think.  no idea HOW.
+
+decision to study cs.
+
+somehow read "Learn You A Haskell For Great Good". got as far as functors, then kind of gave up. that still made me understand a lot of "standard" functional programming and helped a lot in university. (was known for "knowing haskell" then.)
+
+also, learned ruby on rails in a week to build a website/portal for a friend. kind-of succeeded, but wasn't used. (it still runs?!  http://jg-dz.heroku.com) worked through http://ruby.railstutorial.org/ruby-on-rails-tutorial-book and adapted as i went. implemented "pages" with custom content and subpages, input using markdown and even a "planner" for various "tasks" at specific times. (must have learned git prior to this, maybe when dabbling with ditz and/or compiling stuff.)
+
+trying to implement a lisp right before university begins. not finished.
+
+stuff from now must be on github. dabbled with semantic web tech and ruby for a while. wrote a tiny "gem env" tool.
+
+more html demos, some tiny games with a fellow student. even tried to write a bigger one in mono/c#, but failed.
+
+the "weird_dreams" series of demos.
+
+own homepage/blog, published via github pages.
+
+own server on digitalocean.
+
+# well, and now more or less "now". but i remember that. and it's at least kind-of documented.
