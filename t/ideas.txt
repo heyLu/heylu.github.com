@@ -24,3 +24,5 @@ i don't like cynics. i'm naive and full of hope.
 warmth in tech. i miss it, so much competition, being "tough" (and knowing everything). can we have more weakness. that sounds quite fluffy, but so be it. and we can still have new things, unknown things, ideas from outer space... that's what i like people like simon peyton-jones, rich hickey and in general people that write: they're gentle, somehow. they don't look down on you because you don't know something, they're trying to explain it to you.
 
 a system composed of services which interface with each other through data. the ui is composed of services itself, with different uis for the same data in different contexts.
+
+talking to the google search bar (with suggestions). about the problems and worries we have, about surveilance, about friends, love and fear.
