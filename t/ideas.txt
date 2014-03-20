@@ -26,3 +26,5 @@ warmth in tech. i miss it, so much competition, being "tough" (and knowing every
 a system composed of services which interface with each other through data. the ui is composed of services itself, with different uis for the same data in different contexts.
 
 talking to the google search bar (with suggestions). about the problems and worries we have, about surveilance, about friends, love and fear.
+
+web applications are a ui for documents. it doesn't matter that they're "single-page" or something else, they're just a way to interact with the data (the documents).
