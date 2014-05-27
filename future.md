@@ -31,3 +31,12 @@ for personal computing?
 - explorable, some kind of linking facility that works on system
   functionality, documents
 - history tree/graph
+- an infinite canvas to store things in. or at least throw them
+  in and look at them later. partially to not worry about
+  organisation when it doesn't matter (having an idea), but also
+  to have a common place where things go and to be able to use
+  our visual thinking abilities to see patterns later on.
+- multiple occurrences of the same thing in one or more structures
+  (often things fit in multiple "categories" and "filing" it under
+  one of them is unnecessary and might make them not discoverable
+  later on)
